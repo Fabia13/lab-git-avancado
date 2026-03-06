@@ -1,1 +1,5 @@
+ HEAD
 Nome: DevOps B - Especialista em Seguranca
+
+Nome: DevOps A - Analista de Cybersec
+d27d43c (feat: adiciona perfil do DevOps A localmente)
